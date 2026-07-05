@@ -1,94 +1,131 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=280&section=header&text=Omar%20Shehata&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Odoo%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=55"/>
 
-# Hi 👋 I'm Omar Shehata
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Omar+Shehata;Full+Stack+Developer;Odoo+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Eat+🍕+•+Sleep+😴+•+Code+💻+•+Repeat+🔁"/>
 
-### 💻 Full Stack Developer | ⚙️ Odoo Developer | 🛡️ Cybersecurity Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Odoo+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality+🚀"/>
-
-<img src="https://komarev.com/ghpvc/?username=0marshehata&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=0marshehata&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="360" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+
+```javascript
+const omar = {
+    location: "Egypt 🇪🇬",
+    role: "Full Stack Developer",
+    specialization: "Odoo ERP Developer",
+    interests: [
+        "Web Development",
+        "Cybersecurity",
+        "Open Source",
+        "Problem Solving"
+    ],
+    currentlyLearning: [
+        "React.js",
+        "Node.js",
+        "Advanced Odoo",
+        "DevOps"
+    ],
+    motto: "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁"
+};
+```
 
 - 💻 Full Stack Web Developer
-- ⚙️ Odoo Developer
+- ⚙️ Odoo ERP Developer
 - 🛡️ Cybersecurity Enthusiast
-- 🌱 Currently learning React.js & Node.js
-- 🎯 Passionate about building scalable web applications
-- 🚀 Love solving real-world problems with code
-- ⚡ Always learning new technologies
+- 🚀 Passionate about scalable applications
+- 🌱 Always learning new technologies
+- 🎯 Building software that solves real problems
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/0marshehata">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:omarshehata4321@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://linkedin.com/in/omar-shehata1">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://instagram.com/0marshehata">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://facebook.com/omar.shehata.191299">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,cpp,php,laravel,bootstrap,tailwind,mysql,postgres,mongodb,git,github,docker,linux,bash,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,cpp,php,laravel,bootstrap,tailwind,mysql,postgres,mongodb,docker,git,github,linux,bash,vscode,figma"/>
 
 </p>
 
 ---
 
-# ⚙️ Odoo
+# ⚙️ Odoo Development
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo%20Developer-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎬 Cinema Saber | Modern Cinema Booking System |
+| 🍽️ Akelny | Digital Menu Platform |
+| ⚙️ Odoo ERP | Custom Modules & Business Solutions |
+| 🌐 Portfolio | Personal Portfolio Website |
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0marshehata&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0marshehata&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0marshehata&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0marshehata&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0marshehata&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -102,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=0marshehata&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=0marshehata&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
@@ -118,7 +155,7 @@
 
 ---
 
-# 💬 Dev Quote
+# 💬 Developer Quote
 
 <p align="center">
 
@@ -128,12 +165,20 @@
 
 ---
 
+# ☕ Fuel
+
+<p align="center">
+
+<img width="400" src="https://media.tenor.com/WrJ0P0qzYwAAAAAC/coffee-code.gif"/>
+
+</p>
+
+---
+
 <div align="center">
 
-### 🚀 "Code. Learn. Build. Repeat."
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450"/>
-
-⭐ Thanks for visiting my profile ⭐
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:4F46E5&height=150&section=footer"/>
 
 </div>
