@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=280&section=header&text=Omar%20Shehata&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Odoo%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:06B6D4,100:8B5CF6&text=Omar%20Shehata&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Odoo%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Omar+Shehata;Full+Stack+Developer;Odoo+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Eat+🍕+•+Sleep+😴+•+Code+💻+•+Repeat+🔁"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Omar+Shehata;Full+Stack+Developer;Odoo+ERP+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Eat+🍕+•+Sleep+😴+•+Code+💻+•+Repeat+🔁"/>
 
-<img src="https://komarev.com/ghpvc/?username=0marshehata&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=0marshehata&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -12,35 +12,56 @@
 
 # 💫 About Me
 
-<img align="right" width="360" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" width="370" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-```javascript
-const omar = {
-    location: "Egypt 🇪🇬",
-    role: "Full Stack Developer",
-    specialization: "Odoo ERP Developer",
-    interests: [
-        "Web Development",
-        "Cybersecurity",
-        "Open Source",
-        "Problem Solving"
-    ],
-    currentlyLearning: [
-        "React.js",
-        "Node.js",
-        "Advanced Odoo",
-        "DevOps"
-    ],
-    motto: "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁"
-};
+```python
+class OmarShehata:
+
+    def __init__(self):
+        self.name = "Omar Shehata"
+        self.location = "Egypt 🇪🇬"
+
+        self.role = [
+            "Full Stack Developer 💻",
+            "Odoo ERP Developer ⚙️",
+            "Cybersecurity Enthusiast 🛡️"
+        ]
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "C++",
+            "PHP"
+        ]
+
+        self.currently_learning = [
+            "React.js",
+            "Node.js",
+            "Advanced Odoo",
+            "DevOps"
+        ]
+
+        self.interests = [
+            "Web Development 🌐",
+            "Cybersecurity 🔐",
+            "Open Source ❤️",
+            "Problem Solving 🧩"
+        ]
+
+        self.motto = "Eat 🍕 • Sleep 😴 • Code 💻 • Repeat 🔁"
+
+
+me = OmarShehata()
 ```
 
-- 💻 Full Stack Web Developer
+- 💻 Full Stack Developer
 - ⚙️ Odoo ERP Developer
 - 🛡️ Cybersecurity Enthusiast
-- 🚀 Passionate about scalable applications
-- 🌱 Always learning new technologies
-- 🎯 Building software that solves real problems
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently learning React.js, Node.js & DevOps
+- ❤️ Clean Code Lover
+- 🎯 Building software that solves real-world problems
 
 ---
 
@@ -49,30 +70,37 @@ const omar = {
 <p align="center">
 
 <a href="https://github.com/0marshehata">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="mailto:omarshehata4321@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:eng.omar.ahmed.shehata@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/omar-shehata1">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://instagram.com/0marshehata">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
-<a href="https://facebook.com/omar.shehata.191299">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://wa.me/201554626461">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
 </a>
+
+</p>
+
+<p align="center">
+
+📧 **eng.omar.ahmed.shehata@gmail.com** •
+📱 **+20 155 462 6461**
 
 </p>
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -82,11 +110,11 @@ const omar = {
 
 ---
 
-# ⚙️ Odoo Development
+# ⚙️ Odoo ERP
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Odoo%20Developer-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo%20ERP%20Developer-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 
 </p>
 
@@ -94,11 +122,11 @@ const omar = {
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎬 Cinema Saber | Modern Cinema Booking System |
-| 🍽️ Akelny | Digital Menu Platform |
-| ⚙️ Odoo ERP | Custom Modules & Business Solutions |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🎬 Cinema Saber | Modern Cinema Booking & Management System |
+| 🍽️ Akelny | QR Digital Menu Platform |
+| ⚙️ Odoo ERP | Custom Odoo Modules & Business Solutions |
 | 🌐 Portfolio | Personal Portfolio Website |
 
 ---
@@ -117,9 +145,9 @@ const omar = {
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0marshehata&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0marshehata&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0marshehata&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0marshehata&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -155,7 +183,7 @@ const omar = {
 
 ---
 
-# 💬 Developer Quote
+# 💬 Random Dev Quote
 
 <p align="center">
 
@@ -165,11 +193,11 @@ const omar = {
 
 ---
 
-# ☕ Fuel
+# ☕ Coffee + Coding
 
 <p align="center">
 
-<img width="400" src="https://media.tenor.com/WrJ0P0qzYwAAAAAC/coffee-code.gif"/>
+<img width="420" src="https://media.tenor.com/WrJ0P0qzYwAAAAAC/coffee-code.gif"/>
 
 </p>
 
@@ -179,6 +207,6 @@ const omar = {
 
 ## ⭐ Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:4F46E5&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8B5CF6,50:06B6D4,100:4F46E5"/>
 
 </div>
