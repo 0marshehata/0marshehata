@@ -150,23 +150,6 @@ me = OmarShehata()
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marshehata&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0marshehata&theme=onedark&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
