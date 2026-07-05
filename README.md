@@ -108,13 +108,7 @@ me = OmarShehata()
 
 </p>
 
-<p align="center">
 
-📧 **eng.omar.ahmed.shehata@gmail.com**
-
-📱 **+20 155 462 6461**
-
-</p>
 
 ---
 
